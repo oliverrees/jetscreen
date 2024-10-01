@@ -1,3 +1,3 @@
 ## Jetscreen
 
-![](https://github.com/oliverrees/jetscreen/screendemo.gif)
+![](https://github.com/oliverrees/jetscreen/blob/main/screendemo.gif)
